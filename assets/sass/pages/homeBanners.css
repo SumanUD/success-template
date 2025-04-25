@@ -2,7 +2,7 @@
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url('https://cdn.shopify.com/s/files/1/0567/9896/9901/files/04.png?v=1731406064');
+    background-image: url("../../images/banners/home/home-2/belowBanner1.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -13,7 +13,7 @@
     bottom: 40px;
     left: 50%;
     transform: translateX(-50%);
-    text-align: center;
+    text-align: center;         
   
     h2 {
         color: white;
@@ -23,13 +23,12 @@
         text-decoration: underline;
     }
   }
-  
 
   .homeBanner2 {
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url('https://cdn.shopify.com/s/files/1/0567/9896/9901/files/successmensware-banner-1.png?v=1734004462');
+    background-image: url("../../images/banners/home/home-2/belowBanner2.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

@@ -516,12 +516,12 @@
   margin-right: 52px;
 }
 
-.header-2 .header-bottom .logo-home .img-box {
+/* .header-2 .header-bottom .logo-home .img-box {
   width: 68px;
-}
+} */
 
 .header-2 .header-bottom .logo-home .img-box img {
-  width: 68px;
+  width: 80%;
   height: auto;
 }
 
