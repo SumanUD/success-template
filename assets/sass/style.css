@@ -1347,14 +1347,14 @@ label {
 }
 
 .halo-block-header .title:before {
-  content: "";
+  /* content: "";
   display: block;
   position: absolute;
   top: calc(50% - 1px);
   left: 0;
   width: 100%;
   height: 2px;
-  background-color: #232323;
+  background-color: #232323; */
 }
 
 /* END: Block Header */

@@ -309,11 +309,11 @@
 
 @media (min-width: 1600px) {
   .halo-block-fullwidth-banner .content-box {
-    left: calc((100% - 1170px)/2);
+    /* left: calc((100% - 1170px)/2); */
   }
   .halo-block-fullwidth-banner .content-box.content-box--right {
-    left: auto;
-    right: calc((100% - 1170px)/2);
+    left: -50%;
+    /* right: calc((100% - 1170px)/2); */
   }
   .halo-block-spotlight .spotlight-item .content-box {
     padding: 30px;
