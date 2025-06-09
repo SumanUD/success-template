@@ -307,7 +307,7 @@
   }
 }
 
-@media (min-width: 1600px) {
+@media (min-width: 700px) {
   .halo-block-fullwidth-banner .content-box {
     /* left: calc((100% - 1170px)/2); */
   }

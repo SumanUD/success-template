@@ -913,19 +913,9 @@
                             var templateModal = `
                                 <div class="modal-video-content">
                                     <div class="video_YT video">
-                                        <iframe\
-                                            id="player"\
-                                            type="text/html"\
-                                            width="100%"\
-                                            height="100%"\
-                                            frameborder="0"\
-                                            webkitAllowFullScreen\
-                                            mozallowfullscreen\
-                                            allowFullScreen\
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player"\
-                                            src="https://www.youtube.com/embed/${dataVideo}?autoplay=1&mute=0"\
-                                            data-video-player>\
-                                        </iframe>\
+                                        <video controls autoplay class="video">
+                                            <source src="./assets/images/Pages/about-us/02.mp4">
+                                        </video>\
                                     </div>
                                 </div>
                             `;
